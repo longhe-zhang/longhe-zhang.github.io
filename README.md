@@ -1,14 +1,11 @@
 # Longhe Zhang Academic Homepage
 
-This repository contains the personal academic homepage of Longhe Zhang, a PhD Student at the College of Journalism and Communication, Sichuan University.
+Academic homepage of Longhe Zhang, PhD student in Internet and New Media at Sichuan University.
 
 Research interests:
-
-- Digital memory
+- Digital journalism
 - Media sociology
-- Emotion studies
-- Journalism theory
+- Collective memory
+- Generative AI and news
 
-The site is designed for GitHub Pages and can be published at:
-
-https://longhe-zhang.github.io/
+Live site: https://longhe-zhang.github.io/
