@@ -7,6 +7,18 @@
   <meta name="description" content="Longhe Zhang is a PhD student in Internet and New Media at Sichuan University, working on digital journalism, media sociology, collective memory, and generative AI and news.">
   <meta name="author" content="Longhe Zhang">
   <link rel="stylesheet" href="styles.css">
+  <style>
+    .profile { padding-top: 3px; }
+    @media (max-width: 900px) {
+      .profile { display: block; padding-bottom: 28px; }
+      .identity, .profile-links { grid-column: auto; }
+      .profile-links { margin-top: 15px; }
+    }
+    @media (max-width: 600px) {
+      .profile { display: block; }
+      .profile-links { grid-column: auto; }
+    }
+  </style>
 </head>
 <body>
   <header class="topbar" data-header>
@@ -25,8 +37,6 @@
 
   <div class="page-shell">
     <aside class="profile">
-      <div class="portrait" aria-hidden="true">LZ</div>
-
       <div class="identity">
         <h1>Longhe Zhang</h1>
         <p class="cn-name">张龙赫</p>
